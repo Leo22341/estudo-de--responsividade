@@ -79,6 +79,7 @@ a{
 
 a:hover {
     opacity: .6;
+    text-decoration: underline;
 }
 
 a:active {
