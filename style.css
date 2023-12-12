@@ -63,6 +63,7 @@ button:hover {
 
 button:active {
     opacity: .5;
+    color: #f01;
 }
 
 header {
